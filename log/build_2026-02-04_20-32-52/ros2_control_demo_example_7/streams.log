@@ -1,0 +1,99 @@
+[0.009s] Invoking command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_example_7': AMENT_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake /home/elk/ROS2-VPG_ws/src/ros2_control_demos/example_7 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7
+[0.069s] -- The CXX compiler identification is GNU 11.4.0
+[0.076s] -- Detecting CXX compiler ABI info
+[0.148s] -- Detecting CXX compiler ABI info - done
+[0.151s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.152s] -- Detecting CXX compile features
+[0.152s] -- Detecting CXX compile features - done
+[0.155s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.271s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.319s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.336s] -- Found pluginlib: 5.1.3 (/opt/ros/humble/share/pluginlib/cmake)
+[0.362s] -- Found hardware_interface: 2.53.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[0.383s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.383s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.390s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.400s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.409s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.531s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.532s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.551s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.597s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.599s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.610s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.613s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.621s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.630s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.636s] -- Looking for C++ include pthread.h
+[0.732s] -- Looking for C++ include pthread.h - found
+[0.734s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.834s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.834s] -- Found Threads: TRUE  
+[0.870s] -- Found kdl_parser: 2.6.4 (/opt/ros/humble/share/kdl_parser/cmake)
+[0.878s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.879s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[0.879s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[0.882s] -- Found controller_interface: 2.53.0 (/opt/ros/humble/share/controller_interface/cmake)
+[0.884s] -- Found realtime_tools: 2.15.0 (/opt/ros/humble/share/realtime_tools/cmake)
+[0.897s] -- Found ament_cmake_pytest: 1.3.12 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+[1.136s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.141s] -- Found launch_testing_ament_cmake: 1.0.13 (/opt/ros/humble/share/launch_testing_ament_cmake/cmake)
+[1.141s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.158s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[1.162s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[1.162s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.162s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.162s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.180s] -- Found PythonExtra: .so  
+[1.236s] -- Configuring done
+[1.250s] -- Generating done
+[1.254s] -- Build files have been written to: /home/elk/ROS2-VPG_ws/build/ros2_control_demo_example_7
+[1.264s] Invoked command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_example_7' returned '0': AMENT_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake /home/elk/ROS2-VPG_ws/src/ros2_control_demos/example_7 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7
+[1.264s] Invoking command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_example_7': AMENT_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake --build /home/elk/ROS2-VPG_ws/build/ros2_control_demo_example_7 -- -j4 -l4
+[1.308s] [ 40%] [32mBuilding CXX object CMakeFiles/ros2_control_demo_example_7.dir/hardware/r6bot_hardware.cpp.o[0m
+[1.308s] [ 40%] [32mBuilding CXX object CMakeFiles/send_trajectory.dir/reference_generator/send_trajectory.cpp.o[0m
+[1.308s] [ 60%] [32mBuilding CXX object CMakeFiles/ros2_control_demo_example_7.dir/controller/r6bot_controller.cpp.o[0m
+[6.568s] [ 80%] [32m[1mLinking CXX executable send_trajectory[0m
+[6.748s] [ 80%] Built target send_trajectory
+[9.196s] [100%] [32m[1mLinking CXX shared library libros2_control_demo_example_7.so[0m
+[9.561s] [100%] Built target ros2_control_demo_example_7
+[9.570s] Invoked command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_example_7' returned '0': AMENT_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake --build /home/elk/ROS2-VPG_ws/build/ros2_control_demo_example_7 -- -j4 -l4
+[9.572s] Invoking command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_example_7': AMENT_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake --install /home/elk/ROS2-VPG_ws/build/ros2_control_demo_example_7
+[9.577s] -- Install configuration: ""
+[9.578s] -- Execute custom install script
+[9.578s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7//ros2_control_demo_example_7.xml
+[9.586s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7//ros2_control_demo_example_7.xml
+[9.586s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/include/ros2_control_demo_example_7/ros2_control_demo_example_7/r6bot_hardware.hpp
+[9.592s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/launch/view_r6bot.launch.py
+[9.599s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/ros2_control/r6bot.ros2_control.xacro
+[9.606s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/urdf/r6bot.urdf.xacro
+[9.612s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/launch/r6bot_controller.launch.py
+[9.619s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/launch/send_trajectory.launch.py
+[9.625s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/config/r6bot_controller.yaml
+[9.633s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/lib/ros2_control_demo_example_7/send_trajectory
+[9.639s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/environment/library_path.sh
+[9.646s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/environment/library_path.dsv
+[9.653s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ament_index/resource_index/package_run_dependencies/ros2_control_demo_example_7
+[9.660s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ament_index/resource_index/parent_prefix_path/ros2_control_demo_example_7
+[9.667s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/environment/ament_prefix_path.sh
+[9.674s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/environment/ament_prefix_path.dsv
+[9.680s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/environment/path.sh
+[9.687s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/environment/path.dsv
+[9.694s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/local_setup.bash
+[9.700s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/local_setup.sh
+[9.707s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/local_setup.zsh
+[9.714s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/local_setup.dsv
+[9.720s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/package.dsv
+[9.727s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ament_index/resource_index/packages/ros2_control_demo_example_7
+[9.734s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/ros2_control_demo_example_7
+[9.743s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ament_index/resource_index/controller_interface__pluginlib__plugin/ros2_control_demo_example_7
+[9.752s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/cmake/ament_cmake_export_targets-extras.cmake
+[9.761s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/cmake/ament_cmake_export_dependencies-extras.cmake
+[9.769s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/cmake/ros2_control_demo_example_7Config.cmake
+[9.776s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/cmake/ros2_control_demo_example_7Config-version.cmake
+[9.784s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/package.xml
+[9.790s] -- Installing: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/lib/libros2_control_demo_example_7.so
+[9.797s] -- Set runtime path of "/home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/lib/libros2_control_demo_example_7.so" to ""
+[9.797s] -- Installing: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/cmake/export_ros2_control_demo_example_7Export.cmake
+[9.797s] -- Installing: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_example_7/share/ros2_control_demo_example_7/cmake/export_ros2_control_demo_example_7Export-noconfig.cmake
+[9.799s] Invoked command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_example_7' returned '0': AMENT_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description:/opt/ros/humble /usr/bin/cmake --install /home/elk/ROS2-VPG_ws/build/ros2_control_demo_example_7

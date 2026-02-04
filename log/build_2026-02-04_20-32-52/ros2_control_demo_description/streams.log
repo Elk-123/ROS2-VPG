@@ -1,0 +1,59 @@
+[0.011s] Invoking command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/elk/ROS2-VPG_ws/src/ros2_control_demos/ros2_control_demo_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description
+[0.021s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.137s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.186s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.252s] -- Configuring done
+[0.255s] -- Generating done
+[0.255s] -- Build files have been written to: /home/elk/ROS2-VPG_ws/build/ros2_control_demo_description
+[0.259s] Invoked command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/elk/ROS2-VPG_ws/src/ros2_control_demos/ros2_control_demo_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/elk/ROS2-VPG_ws/install/ros2_control_demo_description
+[0.260s] Invoking command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/elk/ROS2-VPG_ws/build/ros2_control_demo_description -- -j4 -l4
+[0.288s] Invoked command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/elk/ROS2-VPG_ws/build/ros2_control_demo_description -- -j4 -l4
+[0.295s] Invoking command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/elk/ROS2-VPG_ws/build/ros2_control_demo_description
+[0.301s] -- Install configuration: ""
+[0.301s] -- Execute custom install script
+[0.301s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/rrbot/urdf/rrbot.materials.xacro
+[0.308s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/rrbot/urdf/rrbot_description.urdf.xacro
+[0.316s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/rrbot/rviz/rrbot.rviz
+[0.323s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/diffbot/urdf/diffbot.materials.xacro
+[0.329s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/diffbot/urdf/diffbot_description.urdf.xacro
+[0.337s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/diffbot/rviz/diffbot.rviz
+[0.343s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/diffbot/rviz/diffbot_view.rviz
+[0.350s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/carlikebot/urdf/carlikebot.materials.xacro
+[0.357s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/carlikebot/urdf/carlikebot_description.urdf.xacro
+[0.371s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/carlikebot/rviz/carlikebot.rviz
+[0.380s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/carlikebot/rviz/carlikebot_view.rviz
+[0.389s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r3bot/urdf/threedofbot_description.urdf.xacro
+[0.396s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/collision/link_0.stl
+[0.402s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/collision/link_1.stl
+[0.409s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/collision/link_2.stl
+[0.415s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/collision/link_3.stl
+[0.421s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/collision/link_4.stl
+[0.429s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/collision/link_5.stl
+[0.437s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/collision/link_6.stl
+[0.444s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/visual/link_0.dae
+[0.451s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/visual/link_1.dae
+[0.457s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/visual/link_2.dae
+[0.465s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/visual/link_3.dae
+[0.471s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/visual/link_4.dae
+[0.478s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/visual/link_5.dae
+[0.485s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/meshes/visual/link_6.dae
+[0.491s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/srdf/r6bot.srdf
+[0.498s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/urdf/inc/create_link.xacro
+[0.506s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/urdf/r6bot_description.urdf.xacro
+[0.514s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/r6bot/rviz/view_robot.rviz
+[0.521s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ament_index/resource_index/package_run_dependencies/ros2_control_demo_description
+[0.528s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ament_index/resource_index/parent_prefix_path/ros2_control_demo_description
+[0.535s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/environment/ament_prefix_path.sh
+[0.541s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/environment/ament_prefix_path.dsv
+[0.548s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/environment/path.sh
+[0.555s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/environment/path.dsv
+[0.562s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/local_setup.bash
+[0.569s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/local_setup.sh
+[0.575s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/local_setup.zsh
+[0.582s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/local_setup.dsv
+[0.588s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/package.dsv
+[0.594s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ament_index/resource_index/packages/ros2_control_demo_description
+[0.602s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/cmake/ros2_control_demo_descriptionConfig.cmake
+[0.609s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/cmake/ros2_control_demo_descriptionConfig-version.cmake
+[0.617s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/ros2_control_demo_description/share/ros2_control_demo_description/package.xml
+[0.626s] Invoked command in '/home/elk/ROS2-VPG_ws/build/ros2_control_demo_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/elk/ROS2-VPG_ws/build/ros2_control_demo_description
