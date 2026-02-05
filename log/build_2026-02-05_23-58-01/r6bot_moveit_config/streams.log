@@ -1,0 +1,27 @@
+[0.011s] Invoking command in '/home/elk/ROS2-VPG_ws/build/r6bot_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/elk/ROS2-VPG_ws/build/r6bot_moveit_config -- -j4 -l4
+[0.045s] Invoked command in '/home/elk/ROS2-VPG_ws/build/r6bot_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/elk/ROS2-VPG_ws/build/r6bot_moveit_config -- -j4 -l4
+[0.054s] Invoking command in '/home/elk/ROS2-VPG_ws/build/r6bot_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/elk/ROS2-VPG_ws/build/r6bot_moveit_config
+[0.060s] -- Install configuration: ""
+[0.061s] -- Execute custom install script
+[0.061s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/launch/moveit.launch.py
+[0.061s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/config/joint_limits.yaml
+[0.061s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/config/kinematics.yaml
+[0.062s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/config/moveit_controllers.yaml
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/config/ompl_planning.yaml
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/config/r6bot.srdf
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/ament_index/resource_index/package_run_dependencies/r6bot_moveit_config
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/ament_index/resource_index/parent_prefix_path/r6bot_moveit_config
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/environment/ament_prefix_path.sh
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/environment/ament_prefix_path.dsv
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/environment/path.sh
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/environment/path.dsv
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/local_setup.bash
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/local_setup.sh
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/local_setup.zsh
+[0.063s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/local_setup.dsv
+[0.063s] -- Symlinking: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/package.dsv
+[0.071s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/ament_index/resource_index/packages/r6bot_moveit_config
+[0.071s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/cmake/r6bot_moveit_configConfig.cmake
+[0.071s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/cmake/r6bot_moveit_configConfig-version.cmake
+[0.072s] -- Up-to-date symlink: /home/elk/ROS2-VPG_ws/install/r6bot_moveit_config/share/r6bot_moveit_config/package.xml
+[0.073s] Invoked command in '/home/elk/ROS2-VPG_ws/build/r6bot_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/elk/ROS2-VPG_ws/build/r6bot_moveit_config

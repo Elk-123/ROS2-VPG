@@ -1,0 +1,7 @@
+planner_configs:
+  RRTConnectkConfigDefault:
+    type: geometric::RRTConnect
+    range: 0.0  # Max motion added to tree. Rules of thumb: 0 = use 10% of state space
+arm:
+  planner_configs:
+    - RRTConnectkConfigDefault

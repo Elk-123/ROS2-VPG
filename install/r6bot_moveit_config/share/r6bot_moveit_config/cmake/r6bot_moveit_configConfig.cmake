@@ -1,0 +1,1 @@
+/home/elk/ROS2-VPG_ws/build/r6bot_moveit_config/ament_cmake_core/r6bot_moveit_configConfig.cmake

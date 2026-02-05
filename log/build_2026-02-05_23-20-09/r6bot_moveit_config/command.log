@@ -1,0 +1,2 @@
+Invoking command in '/home/elk/ROS2-VPG_ws/build/r6bot_moveit_config': /usr/bin/cmake /home/elk/ROS2-VPG_ws/src/r6bot_moveit_config -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/elk/ROS2-VPG_ws/install/r6bot_moveit_config
+Invoked command in '/home/elk/ROS2-VPG_ws/build/r6bot_moveit_config' returned '1': /usr/bin/cmake /home/elk/ROS2-VPG_ws/src/r6bot_moveit_config -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/elk/ROS2-VPG_ws/install/r6bot_moveit_config

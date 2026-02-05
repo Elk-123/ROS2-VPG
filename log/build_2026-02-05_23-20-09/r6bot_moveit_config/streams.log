@@ -1,0 +1,4 @@
+[0.013s] Invoking command in '/home/elk/ROS2-VPG_ws/build/r6bot_moveit_config': /usr/bin/cmake /home/elk/ROS2-VPG_ws/src/r6bot_moveit_config -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/elk/ROS2-VPG_ws/install/r6bot_moveit_config
+[0.040s] [0mCMake Error: The source directory "/home/elk/ROS2-VPG_ws/src/r6bot_moveit_config" does not appear to contain CMakeLists.txt.
+[0.040s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.043s] Invoked command in '/home/elk/ROS2-VPG_ws/build/r6bot_moveit_config' returned '1': /usr/bin/cmake /home/elk/ROS2-VPG_ws/src/r6bot_moveit_config -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/elk/ROS2-VPG_ws/install/r6bot_moveit_config
